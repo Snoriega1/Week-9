@@ -2,14 +2,17 @@
 <hr>
 <b><h3>Red Team</h3></b>
 <b><h3>Vulnerability #1</h3></b>
+IDOR change ID=11 to see hidden employee information<br>
 <img src="https://i.ibb.co/4Tn4zdJ/Red-Team-1.png" alt="Red-Team-1" border="0"></a>
 <br>
 <b><h3>Blue Team</h3></b>
 <b><h3>Vulnerability #1</h3></b>
+SQL Injection add an ' after ID= to cause the database to fail.<br>
 <img src="https://i.ibb.co/vqvn7X8/Blue-Team-1.png" alt="Blue-Team-1" border="0"></a>
 <br>
 <b><h3>Green Team</h3></b>
 <b><h3>Vulnerability #1</h3></b>
+XSS I entered in the message Sean Wuz HeRe
 <img src="https://i.ibb.co/gF32V4b/Green-Team-1.png" alt="Green-Team-1" border="0"></a>
 <br>
 <b><h3>Vulnerability #2</h3></b>
@@ -22,4 +25,3 @@
 <br>
 <img src="https://i.ibb.co/FXQbZNC/Green-Team-3a.png" alt="Green-Team-3a" border="0"></a>
 <br>
-
