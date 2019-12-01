@@ -17,8 +17,10 @@ XSS I entered in the message Sean Wuz HeRe
 <br>
 <b><h3>Vulnerability #2</h3></b>
 Username Enumeration<br>
+When you enter in the correct username the warning is in Bold<br>
 <img src="https://i.ibb.co/WDMLpJx/Green-Team-2.png" alt="Green-Team-2" border="0"></a>
 <br>
+When the incorrect username is entered the text in not bold<br>
 <img src="https://i.ibb.co/PTr4kV4/Green-Team-2a.png" alt="Green-Team-2a" border="0"></a>
 <br>
 <b><h3>Vulnerability #3</h3></b>
